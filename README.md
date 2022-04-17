@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" /> Welcome 🎉 to my profile.
 
-### Through 8 years of WEB and Hybrid Mobile development
+### Through 15 years of WEB and Hybrid Mobile development
 #### ABOUT ME
 
 - 🚀 I respect and understand your needs, my goal is to give you 100%-satisfaction.
@@ -16,6 +16,8 @@
 <br />
 
 #### MY STACKS
+- Blockchain
+- Hybrid Mobile(Flutter, React Native) and Native Mobile(Swift, Objective C, Java)
 - Reactjs, Nextjs, Gatsby, Redux & toolkit
 - Vuejs, Nuxtjs, Vuex
 - Angularjs, Angular, Typescript
@@ -24,9 +26,10 @@
 - MSSQL, MySQL, PostgreSQL, MongoDB
 - Python, Django
 - Ruby, Ruby on Rails
-- PHP, Laravel | Livewire, Symfony, CodeIgniter
-- C #, ASP.NET
-- Face recognition, OpenCV, Blockchain
+- PHP, Laravel | Livewire, Symfony, CodeIgniter, YII
+- C#, ASP.NET, C++
+- Unity3D
+- Face recognition, OpenCV, 
 
 <table><tr><td valign="top" width="100%">
 <div align="center">  
